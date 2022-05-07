@@ -1,4 +1,4 @@
-The total title of this project from 2020 is <b>"Deanonymizing quietly all of Tor, the undisclosed attack"</b>
+The complete title of this project from 2020 is <b>"Deanonymizing quietly all of Tor, the undisclosed attack"</b>
 
 Where one of the two names of ``undisclosed`` is Chameleon since the attack can take various forms
 
