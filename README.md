@@ -6,4 +6,4 @@ It allows to deanonymize Tor users, hidden services and their operators, the att
 
 It was not intentional to end up with those findings which just came from our work on the [node-Tor](https://github.com/Ayms/node-Tor) project, in fact mistakes raising some concerns
 
-That's not theoretical/academic work and has been tested, showing also some other vectors of attack, this project is for sale, contact: PGP Key fingerprint (aymeric peersm com): 65EF AE3D 973F D36A AB25 1225 2A1D 7B34 2627 AC39
+That's not theoretical/academic work and has been tested, showing also some other vectors of attack, this self financed project needs some funding, contact: PGP Key fingerprint (aymeric peersm com): 65EF AE3D 973F D36A AB25 1225 2A1D 7B34 2627 AC39
